@@ -1,0 +1,108 @@
+canonical_identifier: bkk:krp/KR6w0039/v1
+canonical_location: https://kanripo.org/bkk/KR6w0039/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 圭峰禪師原人論發微錄
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/D/D39/D39n8899.xml
+    old_id: D39n8899
+  edition:
+    short: bkk
+editions:
+- short: 國圖
+  label: 國圖
+  source_xml_id: wit.orig
+- short: D
+assets:
+  parts:
+  - {seq: 0, filename: KR6w0039_000.yaml, hash: 'sha256:9dc36c42be36efa0d17ccde36294d0ae3930ea6ef1b1372f148d6e66d0542153'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6w0039_000.markers.yaml, hash: 'sha256:30cfe31cedebb0ffa2d4fdba967bf8810a1013096b56ab56473cd1635746f16e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6w0039_D_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6w0039_D_000-mulu-2
+    span:
+    - front
+    - 244
+    - 244
+  label: 發微錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6w0039_D_000-mulu-3
+    span:
+    - front
+    - 271
+    - 271
+  label: 釋序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6w0039_D_000-mulu-4
+    span:
+    - front
+    - 3131
+    - 3131
+  label: 釋斥迷執第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6w0039_D_000-mulu-5
+    span:
+    - front
+    - 9708
+    - 9708
+  label: 釋斥偏淺第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6w0039_D_000-mulu-6
+    span:
+    - front
+    - 16393
+    - 16393
+  label: 釋直顯真源第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6w0039_D_000-mulu-7
+    span:
+    - front
+    - 18021
+    - 18021
+  label: 釋會通本末第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6w0039_D_000-mulu-8
+    span:
+    - front
+    - 21032
+    - 21032
+  label: 淨源法師事略
+  type: mulu
+  level: 1
+hash: sha256:f6af6a36f7add72f253f9c1483e8b2907f9c1d31703ce40f88e96193b5d7ca90
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

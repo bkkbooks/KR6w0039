@@ -1,0 +1,106 @@
+canonical_identifier: bkk:krp/KR6w0039/D/v1
+canonical_location: https://kanripo.org/bkk/KR6w0039/D/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 圭峰禪師原人論發微錄
+  identifiers:
+    krp: KR6w0039
+    cbeta: D39n8899
+    cbeta_old_id: D39n8899
+    authorityid: CA0008038
+    json_key: D8899
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/D/D39/D39n8899.xml
+    old_id: D39n8899
+  edition:
+    short: D
+assets:
+  parts:
+  - {seq: 0, filename: KR6w0039_000-D.yaml, hash: 'sha256:a8e5f99cf366b8d7e6adfe951ce0e4443b84182223d7bb3aad4f5c5c4cbdd436'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6w0039_000-D.markers.yaml, hash: 'sha256:379fb0a711e3617c48e8f9192591ab15501d50833d74b507bc783cd48440261a'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6w0039_D_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6w0039_D_000-mulu-2
+    span:
+    - front
+    - 244
+    - 244
+  label: 發微錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6w0039_D_000-mulu-3
+    span:
+    - front
+    - 271
+    - 271
+  label: 釋序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6w0039_D_000-mulu-4
+    span:
+    - front
+    - 3131
+    - 3131
+  label: 釋斥迷執第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6w0039_D_000-mulu-5
+    span:
+    - front
+    - 9708
+    - 9708
+  label: 釋斥偏淺第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6w0039_D_000-mulu-6
+    span:
+    - front
+    - 16393
+    - 16393
+  label: 釋直顯真源第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6w0039_D_000-mulu-7
+    span:
+    - front
+    - 18021
+    - 18021
+  label: 釋會通本末第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6w0039_D_000-mulu-8
+    span:
+    - front
+    - 21032
+    - 21032
+  label: 淨源法師事略
+  type: mulu
+  level: 1
+hash: sha256:920218df914d187467dbe0c9a7b871557015e227676310bda9ba70f1f7533af6
