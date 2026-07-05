@@ -18,9 +18,9 @@ editions:
 - short: D
 assets:
   parts:
-  - {seq: 0, filename: KR6w0039_000.yaml, hash: 'sha256:9dc36c42be36efa0d17ccde36294d0ae3930ea6ef1b1372f148d6e66d0542153'}
+  - {seq: 0, filename: KR6w0039_000.yaml, hash: 'sha256:a8e5f99cf366b8d7e6adfe951ce0e4443b84182223d7bb3aad4f5c5c4cbdd436'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6w0039_000.markers.yaml, hash: 'sha256:30cfe31cedebb0ffa2d4fdba967bf8810a1013096b56ab56473cd1635746f16e'}
+  - {seq: 0, role: markers, filename: assets/KR6w0039_000.markers.yaml, hash: 'sha256:17de549c75a373557a73e7726f91c87f199a6e4f6558199fd84d4a6329634480'}
 table_of_contents:
 - ref:
     seq: 0
@@ -102,7 +102,4 @@ table_of_contents:
   label: 淨源法師事略
   type: mulu
   level: 1
-hash: sha256:f6af6a36f7add72f253f9c1483e8b2907f9c1d31703ce40f88e96193b5d7ca90
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:211f1c0c5e5825f6192269b2bcbcaf78a252216f3b411817ec2cc0eb8ae67865
