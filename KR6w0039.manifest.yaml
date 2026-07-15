@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6w0039/v1
 canonical_location: https://kanripo.org/bkk/KR6w0039/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 圭峰禪師原人論發微錄
   source:
@@ -18,9 +18,9 @@ editions:
 - short: D
 assets:
   parts:
-  - {seq: 0, filename: KR6w0039_000.yaml, hash: 'sha256:a8e5f99cf366b8d7e6adfe951ce0e4443b84182223d7bb3aad4f5c5c4cbdd436'}
+  - {seq: 0, filename: KR6w0039_000.yaml, hash: 'sha256:01a3164e3569cd7d0bdde8ef4f2ae0a4f6cf01006b0b921cc4049035c8aad5db'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6w0039_000.markers.yaml, hash: 'sha256:17de549c75a373557a73e7726f91c87f199a6e4f6558199fd84d4a6329634480'}
+  - {seq: 0, role: markers, filename: assets/KR6w0039_000.markers.yaml, hash: 'sha256:a6a12de33d958a138edfed0e43ca25fad9247355640af937d6ba353c384ebc8c'}
 table_of_contents:
 - ref:
     seq: 0
@@ -102,4 +102,7 @@ table_of_contents:
   label: 淨源法師事略
   type: mulu
   level: 1
-hash: sha256:211f1c0c5e5825f6192269b2bcbcaf78a252216f3b411817ec2cc0eb8ae67865
+hash: sha256:a8cfedeccc873bdabda0a3f1f1f5046d44b45a0b91622927a065d99194476b20
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
