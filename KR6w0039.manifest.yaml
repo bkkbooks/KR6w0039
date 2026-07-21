@@ -18,15 +18,15 @@ editions:
 - short: D
 assets:
   parts:
-  - {seq: 0, filename: KR6w0039_000.yaml, hash: 'sha256:01a3164e3569cd7d0bdde8ef4f2ae0a4f6cf01006b0b921cc4049035c8aad5db'}
+  - {seq: 0, filename: KR6w0039_000.yaml, hash: 'sha256:b536cddc67f2a443abdb62eb698802c84d29ceaa252662fa4e25a4dfaaecd50a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6w0039_000.markers.yaml, hash: 'sha256:a6a12de33d958a138edfed0e43ca25fad9247355640af937d6ba353c384ebc8c'}
+  - {seq: 0, role: markers, filename: assets/KR6w0039_000.markers.yaml, hash: 'sha256:6a5c0383c7b1ec6f986e3e2ccc9aa37532cdf6fe11deeca3e519950f9a2186be'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6w0039_D_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -36,7 +36,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6w0039_D_000-mulu-2
     span:
-    - front
+    - body
     - 244
     - 244
   label: 發微錄
@@ -46,7 +46,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6w0039_D_000-mulu-3
     span:
-    - front
+    - body
     - 271
     - 271
   label: 釋序
@@ -56,7 +56,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6w0039_D_000-mulu-4
     span:
-    - front
+    - body
     - 3131
     - 3131
   label: 釋斥迷執第一
@@ -66,7 +66,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6w0039_D_000-mulu-5
     span:
-    - front
+    - body
     - 9708
     - 9708
   label: 釋斥偏淺第二
@@ -76,7 +76,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6w0039_D_000-mulu-6
     span:
-    - front
+    - body
     - 16393
     - 16393
   label: 釋直顯真源第三
@@ -86,7 +86,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6w0039_D_000-mulu-7
     span:
-    - front
+    - body
     - 18021
     - 18021
   label: 釋會通本末第四
@@ -96,13 +96,13 @@ table_of_contents:
     seq: 0
     marker_id: KR6w0039_D_000-mulu-8
     span:
-    - front
+    - body
     - 21032
     - 21032
   label: 淨源法師事略
   type: mulu
   level: 1
-hash: sha256:a8cfedeccc873bdabda0a3f1f1f5046d44b45a0b91622927a065d99194476b20
+hash: sha256:667edfd5f01629334fbbd9f412d63584c09977e66745949906f89b745c94464e
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

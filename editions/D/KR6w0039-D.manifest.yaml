@@ -19,15 +19,15 @@ metadata:
     short: D
 assets:
   parts:
-  - {seq: 0, filename: KR6w0039_000-D.yaml, hash: 'sha256:a8e5f99cf366b8d7e6adfe951ce0e4443b84182223d7bb3aad4f5c5c4cbdd436'}
+  - {seq: 0, filename: KR6w0039_000-D.yaml, hash: 'sha256:21d0fe49404254cba473096da5a28e1323b336aef57131acdfae56d3e3c34d30'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6w0039_000-D.markers.yaml, hash: 'sha256:379fb0a711e3617c48e8f9192591ab15501d50833d74b507bc783cd48440261a'}
+  - {seq: 0, role: markers, filename: assets/KR6w0039_000-D.markers.yaml, hash: 'sha256:ef3ee310b0558b6aaaae6f8ac27909029e38c2355f485a30799d5e32888299ef'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6w0039_D_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -37,7 +37,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6w0039_D_000-mulu-2
     span:
-    - front
+    - body
     - 244
     - 244
   label: 發微錄
@@ -47,7 +47,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6w0039_D_000-mulu-3
     span:
-    - front
+    - body
     - 271
     - 271
   label: 釋序
@@ -57,7 +57,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6w0039_D_000-mulu-4
     span:
-    - front
+    - body
     - 3131
     - 3131
   label: 釋斥迷執第一
@@ -67,7 +67,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6w0039_D_000-mulu-5
     span:
-    - front
+    - body
     - 9708
     - 9708
   label: 釋斥偏淺第二
@@ -77,7 +77,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6w0039_D_000-mulu-6
     span:
-    - front
+    - body
     - 16393
     - 16393
   label: 釋直顯真源第三
@@ -87,7 +87,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6w0039_D_000-mulu-7
     span:
-    - front
+    - body
     - 18021
     - 18021
   label: 釋會通本末第四
@@ -97,10 +97,10 @@ table_of_contents:
     seq: 0
     marker_id: KR6w0039_D_000-mulu-8
     span:
-    - front
+    - body
     - 21032
     - 21032
   label: 淨源法師事略
   type: mulu
   level: 1
-hash: sha256:920218df914d187467dbe0c9a7b871557015e227676310bda9ba70f1f7533af6
+hash: sha256:234aa84f608e8467c8660aa051c207410ec9570c4049fceab8f0fcb5d176e1ff

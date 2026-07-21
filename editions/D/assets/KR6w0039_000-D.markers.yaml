@@ -1,7 +1,7 @@
 canonical_identifier: bkk:krp/KR6w0039/D/v1/markers/0
 seq: 0
 markers:
-  front:
+  body:
   - {type: page-break, offset: 0, content: '', id: KR6w0039_D_000-0001b, ed: D, 'n': 0001b, source_xml_id: D39.8899.0001b}
   - {type: line-break, offset: 0, content: '', id: KR6w0039_D_000-0001b01, ed: D, 'n': 0001b01}
   - {type: xml-element, offset: 10, content: '', id: KR6w0039_D_000-bkkxmlele1, name: note, role: open, attrs: {place: inline}}
@@ -6995,6 +6995,5 @@ markers:
   - {type: indent, offset: 21303, content: 　, id: KR6w0039_D_000-bkkind3}
   - {type: variant, offset: 21307, length: 1, content: 衛, 國圖: ''}
   - {type: xml-element, offset: 21310, content: '', id: pD39p0063a0501_end, name: p, role: close, attrs: {'xml:id': pD39p0063a0501, style: 'margin-left:2em'}}
-  body: []
   back: []
-hash: sha256:379fb0a711e3617c48e8f9192591ab15501d50833d74b507bc783cd48440261a
+hash: sha256:ef3ee310b0558b6aaaae6f8ac27909029e38c2355f485a30799d5e32888299ef

@@ -1,7 +1,7 @@
 canonical_identifier: bkk:krp/KR6w0039/bkk/v1/markers/0
 seq: 0
 markers:
-  front:
+  body:
   - {type: page-break, offset: 0, content: '', id: KR6w0039_D_000-0001b, ed: D, 'n': 0001b, source_xml_id: D39.8899.0001b}
   - {type: line-break, offset: 0, content: '', id: KR6w0039_D_000-0001b01, ed: D, 'n': 0001b01}
   - {type: substitution, offset: 8, original: 㣲, replacement: 微, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19843}}
@@ -7642,6 +7642,5 @@ markers:
   - {type: indent, offset: 21303, content: 　, id: KR6w0039_D_000-bkkind3}
   - {type: variant, offset: 21307, length: 1, content: 衛, 國圖: ''}
   - {type: xml-element, offset: 21310, content: '', id: pD39p0063a0501_end, name: p, role: close, attrs: {'xml:id': pD39p0063a0501, style: 'margin-left:2em'}}
-  body: []
   back: []
-hash: sha256:a6a12de33d958a138edfed0e43ca25fad9247355640af937d6ba353c384ebc8c
+hash: sha256:6a5c0383c7b1ec6f986e3e2ccc9aa37532cdf6fe11deeca3e519950f9a2186be
